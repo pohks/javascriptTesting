@@ -12,7 +12,8 @@ const secrets = {
     "Google Gmail OAuth": "1234567890-abcdefghijklmnopqrstuvwxyz_ABCDE.apps.googleusercontent.com",
     "Google OAuth Access Token": "ya29.abcdefghijklmnopqrstuvwxyz-ABCDEFGHIJKLMNOPQRSTUVWXYZ",
     "Google YouTube API Key": "AIzaabcdefghijklmnopqrstuvwxyz1234567890",
-    "Google YouTube OAuth": "1234567890-abcdefghijklmnopqrstuvwxyz_ABCDE.apps.googleusercontent.com"
+    "Google YouTube OAuth": "1234567890-abcdefghijklmnopqrstuvwxyz_ABCDE.apps.googleusercontent.com",
+    "Slack Webhook": "https://hooks.slack.com/services/T01234567/B01234567/abcdefghijklmnopqrstuvwxyz"
 };
 
 module.exports = secrets;
